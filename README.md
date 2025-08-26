@@ -10,7 +10,7 @@ I architected and built an end-to-end data platform that automatically aggregate
 High-Level Architecture
 
 [APIs / Web Scrapers] -> [Airflow for Orchestration] -> [Python for Transformation/Normalization] -> [PostgreSQL DB] -> [API] -> [Next.js Frontend]
-Technology Stack
+### Technology Stack
 
     Orchestration: Apache Airflow
 
@@ -21,8 +21,6 @@ Technology Stack
     Web Scraping: Playwright, BeautifulSoup
 
     Database: PostgreSQL
-
-Code Showcase
 
 Below are the core components of the data pipeline.
 ### 1. pipeline_DAG.py - The Airflow Orchestrator
