@@ -4,7 +4,7 @@ This repository contains curated code samples from my personal projects, highlig
 ## Project 1: GrowingUpChicago.org - Automated Event Data Platform
 
 Live Site: https://www.growingupchicago.org
-Project Summary
+### Project Summary
 
 I architected and built an end-to-end data platform that automatically aggregates, normalizes, and serves event data for families in Chicago. The goal was to create a single, reliable source for local family-friendly activities.
 High-Level Architecture
