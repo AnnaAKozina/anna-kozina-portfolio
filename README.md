@@ -1,7 +1,7 @@
-## Anna Kozina - Data & AI Engineering Portfolio
+# Anna Kozina - Data & AI Engineering Portfolio
 
 This repository contains curated code samples from my personal projects, highlighting my skills in data engineering, machine learning, and full-stack development.
-Project 1: GrowingUpChicago.org - Automated Event Data Platform
+## Project 1: GrowingUpChicago.org - Automated Event Data Platform
 
 Live Site: https://www.growingupchicago.org
 Project Summary
